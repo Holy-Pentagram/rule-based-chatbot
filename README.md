@@ -1,6 +1,5 @@
-# Description:
-# SLM is a simple rule-based chatbot that replies based on predefined phrases and responses.
-# You can train it by giving it example conversations, and it will respond accordingly.
+SLM is a simple rule-based chatbot that replies based on predefined phrases and responses.
+You can train it by giving it example conversations, and it will respond accordingly.
 
 # Upgrade pip
 pip install --upgrade pip
